@@ -2,5 +2,5 @@ name = "instafetch"
 compatibility_date = "2024-08-10"
 
 [vars]
-UPSTASH_REDIS_REST_URL = https://up-werewolf-26467.upstash.io
-UPSTASH_REDIS_REST_TOKEN = AWdjAAIjcDFiOWUyYWQ2YWM3MzI0ODVjYjkwNWMyOGVlMWU0OTY1M3AxMA
+UPSTASH_REDIS_REST_URL = "https://up-werewolf-26467.upstash.io"
+UPSTASH_REDIS_REST_TOKEN = "AWdjAAIjcDFiOWUyYWQ2YWM3MzI0ODVjYjkwNWMyOGVlMWU0OTY1M3AxMA"
